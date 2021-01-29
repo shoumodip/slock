@@ -7,6 +7,6 @@ In order to build slock you need the Xlib header files.
 ## Installation
 ```sh
 git clone git@github.com:shoumodip/slock
-make install
+make
 sudo make install
 ```
